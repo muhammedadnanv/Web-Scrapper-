@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Web Scraper",
+  "version": "1.0",
+  "description": "Extract text content from a webpage and download as PDF",
+  "permissions": ["activeTab"],
+  "browser_action": {
+    "default_icon": {
+      "16": "https://scrapingant.com/blog/img/blog/requests-logo.png",
+      "48": "https://scrapingant.com/blog/img/blog/requests-logo.png",
+      "128": "https://scrapingant.com/blog/img/blog/requests-logo.png"
+    },
+    "default_popup": "popup.html"
+  },
+  "web_accessible_resources": [
+    "html2pdf.bundle.js"
+  ]
+}
