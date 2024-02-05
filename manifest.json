@@ -10,7 +10,7 @@
       "48": "https://scrapingant.com/blog/img/blog/requests-logo.png",
       "128": "https://scrapingant.com/blog/img/blog/requests-logo.png"
     },
-    "default_popup": "popup.html"
+    "default_popup": "index.html"
   },
   "web_accessible_resources": [
     "html2pdf.bundle.js"
