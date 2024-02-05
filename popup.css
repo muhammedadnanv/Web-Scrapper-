@@ -1,0 +1,29 @@
+body {
+  width: 200px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+  background-color: black;
+  color: goldenrod;
+}
+
+button {
+  margin-bottom: 10px;
+  padding: 8px 16px;
+  font-size: 14px;
+  cursor: pointer;
+  background-color: goldenrod;
+  color: black;
+  border: none;
+}
+
+#results {
+  margin-top: 10px;
+  white-space: pre-wrap;
+  border: 1px solid goldenrod;
+  padding: 10px;
+  font-size: 16px;
+  background-color: black;
+  color: goldenrod;
+}
