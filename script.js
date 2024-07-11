@@ -1,4 +1,4 @@
 
 function socialmedia() {
-      window.open('https://linktr.ee/DeveloperCommunity1');
+      window.alert('https://linktr.ee/DeveloperCommunity1');
       }
